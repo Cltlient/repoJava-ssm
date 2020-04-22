@@ -1,0 +1,8 @@
+com\cltlient\ssm\domain\Permission.class
+com\cltlient\ssm\domain\UserInfo.class
+com\cltlient\ssm\domain\SysLog.class
+com\cltlient\ssm\domain\Member.class
+com\cltlient\ssm\domain\Product.class
+com\cltlient\ssm\domain\Role.class
+com\cltlient\ssm\domain\Orders.class
+com\cltlient\ssm\domain\Traveller.class

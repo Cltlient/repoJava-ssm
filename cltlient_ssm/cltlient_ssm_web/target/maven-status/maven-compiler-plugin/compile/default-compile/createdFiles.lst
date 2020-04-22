@@ -1,0 +1,7 @@
+com\cltlient\ssm\controller\RoleController.class
+com\cltlient\ssm\controller\ProductController.class
+com\cltlient\ssm\controller\UserController.class
+com\cltlient\ssm\controller\OrdersContoller.class
+com\cltlient\ssm\controller\SysLogController.class
+com\cltlient\ssm\controller\PermissionController.class
+com\cltlient\ssm\controller\LogAop.class
